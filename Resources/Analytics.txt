@@ -1,0 +1,234 @@
+
+MEDIUM Mode Was Activated At 0.01667 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player KILLED An ENEMY At 9.35755 Into Gameplay.
+
+Player SCORE Is Now: 10
+
+Player KILLED An ENEMY At 21.5094 Into Gameplay.
+
+Player SCORE Is Now: 20
+
+Player KILLED An ENEMY At 31.3391 Into Gameplay.
+
+Player SCORE Is Now: 30
+
+Player KILLED An ENEMY At 40.9956 Into Gameplay.
+
+Player SCORE Is Now: 40
+
+Player KILLED An ENEMY At 53.734 Into Gameplay.
+
+Player SCORE Is Now: 50
+
+HARD Mode Was Activated At 65.0263 Into Gameplay.
+Enemy Health Is Now: 60
+Enemy Damage Is Now: 3
+
+Player DIED At 67.5863 Into Gameplay.
+
+Player KILLED An ENEMY At 81.1304 Into Gameplay.
+
+Player SCORE Is Now: 40
+
+MEDIUM Mode Was Activated At 0.079579 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player KILLED An ENEMY At 13.8342 Into Gameplay.
+
+Player SCORE Is Now: 10
+
+MEDIUM Mode Was Activated At 0.01667 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player KILLED An ENEMY At 5.38385 Into Gameplay.
+
+Player SCORE Is Now: 10
+
+Player KILLED An ENEMY At 14.1897 Into Gameplay.
+
+Player SCORE Is Now: 20
+
+Player KILLED An ENEMY At 17.4918 Into Gameplay.
+
+Player SCORE Is Now: 30
+
+MEDIUM Mode Was Activated At 0.01667 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player KILLED An ENEMY At 20.8906 Into Gameplay.
+
+Player SCORE Is Now: 10
+
+Player KILLED An ENEMY At 40.9278 Into Gameplay.
+
+Player SCORE Is Now: 10
+
+Player KILLED An ENEMY At 41.0095 Into Gameplay.
+
+Player SCORE Is Now: 20
+
+Player KILLED An ENEMY At 53.7468 Into Gameplay.
+
+Player SCORE Is Now: 20
+
+HARD Mode Was Activated At 65.0414 Into Gameplay.
+Enemy Health Is Now: 60
+Enemy Damage Is Now: 3
+
+Player KILLED An ENEMY At 66.8223 Into Gameplay.
+
+Player SCORE Is Now: 20
+
+MEDIUM Mode Was Activated At 0.01667 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player KILLED An ENEMY At 8.7381 Into Gameplay.
+
+Player SCORE Is Now: 10
+
+MEDIUM Mode Was Activated At 0.01667 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player KILLED An ENEMY At 10.7502 Into Gameplay.
+
+MEDIUM Mode Was Activated At 0.01667 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player KILLED An ENEMY At 9.37822 Into Gameplay.
+
+Player SCORE Is Now: 10
+
+MEDIUM Mode Was Activated At 0.10851 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player KILLED An ENEMY At 7.49576 Into Gameplay.
+
+MEDIUM Mode Was Activated At 0.01667 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+MEDIUM Mode Was Activated At 0.016683 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+MEDIUM Mode Was Activated At 0.016669 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+MEDIUM Mode Was Activated At 0.016672 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+MEDIUM Mode Was Activated At 0.01667 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+MEDIUM Mode Was Activated At 0.01667 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+MEDIUM Mode Was Activated At 0.01667 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+MEDIUM Mode Was Activated At 0.016669 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+MEDIUM Mode Was Activated At 0.016669 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+MEDIUM Mode Was Activated At 0.016669 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player KILLED An ENEMY At 42.8619 Into Gameplay.
+
+MEDIUM Mode Was Activated At 0.071621 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+MEDIUM Mode Was Activated At 0.016669 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player DIED At 7.16087 Into Gameplay.
+
+MEDIUM Mode Was Activated At 0.01667 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player DIED At 3.64965 Into Gameplay.
+
+Player DIED At 9.32757 Into Gameplay.
+
+Player KILLED An ENEMY At 12.117 Into Gameplay.
+
+Player SCORE Is Now: 0
+
+MEDIUM Mode Was Activated At 0.033372 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player DIED At 14.3138 Into Gameplay.
+
+MEDIUM Mode Was Activated At 0.088993 Into Gameplay.
+Enemy Health Is Now: 40
+Enemy Damage Is Now: 2
+
+Player DIED At 4.41217 Into Gameplay.
+
+Player KILLED An ENEMY At 6.3332 Into Gameplay.
+
+Player SCORE Is Now: 0
+
+Player DIED At 9.39035 Into Gameplay.
+
+Player KILLED An ENEMY At 11.0538 Into Gameplay.
+
+Player SCORE Is Now: 0
+
+Player KILLED An ENEMY At 26.4975 Into Gameplay.
+
+Player SCORE Is Now: 10
+
+Player SCORE Is Now: 10
+
+Player SCORE Is Now: 10
+
+Player KILLED An ENEMY At 42.8306 Into Gameplay.
+
+Player SCORE Is Now: 10
+
+Player SCORE Is Now: 10
+
+Player SCORE Is Now: 10
+
+Player SCORE Is Now: 10
+
+Player DIED At 43.0667 Into Gameplay.
+
+Player KILLED An ENEMY At 51.8732 Into Gameplay.
+
+Player KILLED An ENEMY At 58.494 Into Gameplay.
+
+Player SCORE Is Now: 10
+
+Player KILLED An ENEMY At 63.3267 Into Gameplay.
+
+Player SCORE Is Now: 20
+
+HARD Mode Was Activated At 65.0521 Into Gameplay.
+Enemy Health Is Now: 60
+Enemy Damage Is Now: 3
